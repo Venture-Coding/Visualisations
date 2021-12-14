@@ -10,7 +10,7 @@ How the wheel differs with personas:
    
 <img width="835" alt="Screenshot 2021-12-14 at 5 54 10 PM" src="https://user-images.githubusercontent.com/61674750/145997835-61b72967-3be1-4547-967e-15149d445e0a.png">
   
-Graphical Heuristic :  
+**Graphical Heuristic** :  
 Heuristic are meant to be followed unless unreasonable.  
 Tufte's Heuristics (checkout darkhorseanalytics.com).   
 <img width="835" alt="Screenshot 2021-12-14 at 6 09 59 PM" src="https://user-images.githubusercontent.com/61674750/146000017-c78ace11-18f0-4779-896a-63baec3bbe50.png">
