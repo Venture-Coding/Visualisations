@@ -7,5 +7,5 @@ Matplotlib's architecture in [detail](http://www.aosabook.org/en/matplotlib.html
     
 D3.JS is an example of a declarative information visualization method. While matplotlib's pyplot is an example of a procedural information visualization method.  
 
-**10 Rules for Better Figures**
+**10 Rules for Better Figures**  
 [Check out](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833).
