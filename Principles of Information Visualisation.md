@@ -21,4 +21,5 @@ Useful Junk? The effects of visual embellishment on comprehension and memorabili
   
 Truth is Subjective, Relative. There is No Absolute Truth in Visualization.  
 
-<img width="618" alt="Screenshot 2021-12-14 at 7 25 48 PM" src="https://user-images.githubusercontent.com/61674750/146011948-153af3b8-09ef-41fb-ba54-6947771e6c04.png">
+<img width="618" alt="Screenshot 2021-12-14 at 7 29 33 PM" src="https://user-images.githubusercontent.com/61674750/146012542-f969fba0-1532-4255-8e7d-5e70e385a5aa.png">
+
