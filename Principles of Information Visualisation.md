@@ -13,4 +13,7 @@ How the wheel differs with personas:
 **Graphical Heuristic** :  
 Heuristic are meant to be followed unless unreasonable.  
 Tufte's Heuristics (checkout darkhorseanalytics.com).   
-<img width="835" alt="Screenshot 2021-12-14 at 6 09 59 PM" src="https://user-images.githubusercontent.com/61674750/146000017-c78ace11-18f0-4779-896a-63baec3bbe50.png">
+<img width="835" alt="Screenshot 2021-12-14 at 6 09 59 PM" src="https://user-images.githubusercontent.com/61674750/146000017-c78ace11-18f0-4779-896a-63baec3bbe50.png">  
+  
+Chart [Junk](https://www.researchgate.net/publication/221517808_Useful_Junk_The_effects_of_visual_embellishment_on_comprehension_and_memorability_of_charts)  
+Useful Junk? The effects of visual embellishment on comprehension and memorability of charts
