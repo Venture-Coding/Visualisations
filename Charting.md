@@ -13,3 +13,7 @@ D3.JS is an example of a declarative information visualization method. While mat
   
 **Matplotlib in Action**    
 <img width="600" alt="Screenshot 2021-12-15 at 2 03 54 PM" src="https://user-images.githubusercontent.com/61674750/146151656-bc960ab1-47f7-439d-b18a-1b0242a1dba6.png">
+  
+**Histograms**  
+What's the Ideal No. of Bins? 
+He, K., & Meeden, G. (1997).[ Selecting the Number of Bins in a Histogram](http://users.stat.umn.edu/~gmeeden/papers/hist.pdf): A Decision Theoretic Approach. Journal of Statistical Planning and inference, 61(1), 49-59.
