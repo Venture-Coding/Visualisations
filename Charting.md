@@ -16,4 +16,8 @@ D3.JS is an example of a declarative information visualization method. While mat
   
 **Histograms**  
 What's the Ideal No. of Bins? 
-He, K., & Meeden, G. (1997).[ Selecting the Number of Bins in a Histogram](http://users.stat.umn.edu/~gmeeden/papers/hist.pdf): A Decision Theoretic Approach. Journal of Statistical Planning and inference, 61(1), 49-59.
+He, K., & Meeden, G. (1997).[ Selecting the Number of Bins in a Histogram](http://users.stat.umn.edu/~gmeeden/papers/hist.pdf): A Decision Theoretic Approach. Journal of Statistical Planning and inference, 61(1), 49-59.  
+
+**Correlations**  
+Staying away from Spurious Correlations is very important to rule out chance encounters as hypothesis.
+Check out this list of [spurious correlations](http://www.tylervigen.com/spurious-correlations).
